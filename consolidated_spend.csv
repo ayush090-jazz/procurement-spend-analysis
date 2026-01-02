@@ -1,0 +1,31 @@
+month,vendor_name,category,department,total_spend
+2024-01,ABC LTD,IT Hardware,IT,92000
+2024-01,XYZ TRADERS,Office Supplies,Admin,25000
+2024-01,TATA PVT LTD,Logistics,Operations,90000
+2024-02,TATA PVT LTD,Logistics,Operations,95000
+2024-02,GLOBAL SUPPLIES,Raw Materials,Production,410000
+2024-02,METRO CORPORATION,Maintenance,Facilities,30000
+2024-03,METRO CORPORATION,Maintenance,Facilities,32000
+2024-03,ABC LTD,IT Hardware,IT,92000
+2024-03,XYZ TRADERS,Office Supplies,Admin,12000
+2024-04,XYZ TRADERS,Office Supplies,Admin,13000
+2024-04,TATA PVT LTD,Logistics,Operations,185000
+2024-04,GLOBAL SUPPLIES,Raw Materials,Production,410000
+2024-05,METRO CORPORATION,Maintenance,Facilities,62000
+2024-05,ABC LTD,IT Hardware,IT,92000
+2024-06,XYZ TRADERS,Office Supplies,Admin,25000
+2024-06,TATA PVT LTD,Logistics,Operations,185000
+2024-07,GLOBAL SUPPLIES,Raw Materials,Production,410000
+2024-07,METRO CORPORATION,Maintenance,Facilities,62000
+2024-07,ABC LTD,IT Hardware,IT,45000
+2024-08,ABC LTD,IT Hardware,IT,47000
+2024-08,XYZ TRADERS,Office Supplies,Admin,25000
+2024-08,TATA PVT LTD,Logistics,Operations,90000
+2024-09,TATA PVT LTD,Logistics,Operations,95000
+2024-09,GLOBAL SUPPLIES,Raw Materials,Production,410000
+2024-09,METRO CORPORATION,Maintenance,Facilities,62000
+2024-10,ABC LTD,IT Hardware,IT,92000
+2024-10,XYZ TRADERS,Office Supplies,Admin,25000
+2024-11,TATA PVT LTD,Logistics,Operations,185000
+2024-11,GLOBAL SUPPLIES,Raw Materials,Production,410000
+2024-12,METRO CORPORATION,Maintenance,Facilities,62000
